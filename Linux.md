@@ -1,6 +1,5 @@
 # Notes for Linux
 ### Important for working with the Command prompt
--
 ![Linux Commands](https://i.redd.it/isnefnt32wn21.jpg)
 
 
