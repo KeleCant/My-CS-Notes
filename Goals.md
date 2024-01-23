@@ -1,5 +1,5 @@
 ## Current Goals
-  1. Review Lynux
+  1. Review Linux
   2. Review Git
   3. learn Django
   4. learn Jupiter
