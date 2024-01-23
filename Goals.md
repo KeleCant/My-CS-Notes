@@ -7,7 +7,7 @@
   6. learn C#
   7. JavaScript
   9. Learn and understand MS Connect
-  10. Read and understand Payne's [proteomics Education Pamplet](https://github.com/PayneLab/ProteomicsEducation/)
+  10. Read and understand [Professor Payne's proteomics Education Pamplet](https://github.com/PayneLab/ProteomicsEducation/)
 
 ## Longterm Goals
   ### For Next Semester
