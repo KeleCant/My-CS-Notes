@@ -10,4 +10,4 @@ This is a Repository Where I will be taking notes on essential CS knowledge and 
   - C#
   - JavaScript
   - MS Connect
-  - proteomics Education Pamplet
+  - [proteomics Education Pamplet](https://github.com/PayneLab/ProteomicsEducation/)
