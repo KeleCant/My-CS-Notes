@@ -5,6 +5,6 @@
   - mod_Wsgi - Hoasts Python web application
 
 ### Instaling
-'''
+```
 -> python -m pip install Django
-'''
+```
