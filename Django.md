@@ -11,6 +11,7 @@ $ python -m pip install Django
 ```
 
 ### creating a Django File
+  create a new folder to store the file then run this command
 ```
 $ django-admin startproject mysite
 ```
