@@ -68,8 +68,22 @@ HEAD is now at d43b07b initial draft
 Previous HEAD position was d43b07b initial draft
 Switched to branch 'master'
 ```
+### Compare previous with current
+	- Use the ~# to compare different commit versions
+ 		- 0 Top
+   		- 1 1 down
+     		- Etc.
+```
+➜  git diff HEAD HEAD~1
 
-
+diff --git a/hello.txt b/hello.txt
+index 3b18e51..eeee2af 100644
+--- a/hello.txt
++++ b/hello.txt
+@@ -1 +1 @@
+-hello world
++goodbye world
+```
 
 
 ### Resources
