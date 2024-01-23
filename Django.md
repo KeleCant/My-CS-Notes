@@ -7,5 +7,10 @@
 ### Instaling
   make sure pip is installed and run this command
 ```
--> python -m pip install Django
+$ python -m pip install Django
+```
+
+### creating a Django File
+```
+$ django-admin startproject mysite
 ```
