@@ -69,7 +69,7 @@ Previous HEAD position was d43b07b initial draft
 Switched to branch 'master'
 ```
 ### Compare previous with current
-	- Use the ~# to compare different commit versions
+- Use the ~# to compare different commit versions
 ```sh
 ➜  git diff HEAD HEAD~1
 
@@ -80,6 +80,14 @@ index 3b18e51..eeee2af 100644
 @@ -1 +1 @@
 -hello world
 +goodbye world
+```
+### Clone a Repository
+```
+git clone https://github.com/YOURACCOUNT/YOURREPO.git
+
+Cloning into 'YOURREPO'...
+remote: Total 4 (delta 0), reused 0 (delta 0), pack-reused 0
+Receiving objects: 100% (4/4), done.
 ```
 
 
