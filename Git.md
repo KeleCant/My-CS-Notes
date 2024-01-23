@@ -1,7 +1,27 @@
+# Git
 
+### Check Version
+```sh
+➜  git --version
+git version 2.32.0 (Apple Git-132)
+```
+### Initialize a file as Git repository
+```sh
+➜  git init
+```
+### Get updated on Git
+```sh
+➜  git status
 
+On branch master
+No commits yet
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	FileName.txt
 
-
+nothing added to commit but untracked files present (use "git add" to track)
+```
+### Tell Git which lifes to track
 
 
 
