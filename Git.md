@@ -70,10 +70,7 @@ Switched to branch 'master'
 ```
 ### Compare previous with current
 	- Use the ~# to compare different commit versions
- 		- 0 Top
-   		- 1 1 down
-     		- Etc.
-```
+```sh
 ➜  git diff HEAD HEAD~1
 
 diff --git a/hello.txt b/hello.txt
