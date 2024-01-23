@@ -22,6 +22,53 @@ Untracked files:
 nothing added to commit but untracked files present (use "git add" to track)
 ```
 ### Tell Git which lifes to track
+```sh
+➜  git add .
+➜  git status
+
+On branch master
+No commits yet
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+	new file:   FileName.txt
+```
+### commit to Git
+```sh
+➜  git commit -m "Commit Progress Text"
+[master (root-commit) d43b07b] Commit Progress Text
+ 1 file changed, 1 insertion(+)
+ create mode 100644 FileName.txt
+```
+### See commit versions
+```sh
+➜  git log
+
+commit e65f9833ca8ee366d0d9c1676a91b1a977dab441 (HEAD -> master)
+Author: Kele
+Date:   Tue Jan 23 23:32:22 2024 -0700
+
+    changed greeting to reflect the present mood
+
+commit d43b07b8890f52defb31507211ba78785bf6dccf
+Author: Kele
+Date:   Tue Jan 23 23:29:11 2024 -0700
+
+    initial draft
+```
+### Switch commit versions to previous
+```sh
+➜  git checkout d43b07b8890f
+
+Note: switching to 'd43b07b8890f'.
+HEAD is now at d43b07b initial draft
+```
+### Switch to top version
+```sh
+➜  git checkout master
+Previous HEAD position was d43b07b initial draft
+Switched to branch 'master'
+```
+
 
 
 
