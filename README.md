@@ -3,7 +3,7 @@ This is a Repository Where I will be taking notes on essential CS knowledge and 
 
 ## topics
   - [Linux](https://github.com/KeleCant/My-CS-Notes/blob/main/Linux.md)
-  - Git
+  - [Git](https://github.com/KeleCant/My-CS-Notes/blob/main/Git.md)
   - Django
   - Jupiter
   - Docker
