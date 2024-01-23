@@ -1,5 +1,5 @@
 ## Current Goals
-  1. Review Linux
+  1. Review [Linux](https://github.com/KeleCant/My-CS-Notes/blob/main/Linux.md)
   2. Review Git
   3. learn Django
   4. learn Jupiter
