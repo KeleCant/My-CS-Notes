@@ -28,5 +28,4 @@ $ django-admin startproject mysite
 
 
 #### For next time
-Pick Up
 Review Django [Instalation Guide](https://docs.djangoproject.com/en/5.0/intro/install/) for errors and Continue working through [First Program Tutorial](https://docs.djangoproject.com/en/5.0/intro/tutorial01/)
