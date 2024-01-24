@@ -29,5 +29,4 @@ $ django-admin startproject mysite
 
 
 Pick Up
-Review Django [Instalation Guide](https://docs.djangoproject.com/en/5.0/intro/install/) for errors
-Continue working through [First Program Tutorial](https://docs.djangoproject.com/en/5.0/intro/tutorial01/)
+Review Django [Instalation Guide](https://docs.djangoproject.com/en/5.0/intro/install/) for errors and Continue working through [First Program Tutorial](https://docs.djangoproject.com/en/5.0/intro/tutorial01/)
