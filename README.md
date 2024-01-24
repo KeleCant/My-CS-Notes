@@ -4,7 +4,7 @@ This is a Repository Where I will be taking notes on essential CS knowledge and 
 ## topics
   - [Linux](https://github.com/KeleCant/My-CS-Notes/blob/main/Linux.md)
   - [Git](https://github.com/KeleCant/My-CS-Notes/blob/main/Git.md)
-  - Django
+  - [Django](https://github.com/KeleCant/My-CS-Notes/blob/main/Django.md)
   - Jupiter
   - Docker
   - C#
