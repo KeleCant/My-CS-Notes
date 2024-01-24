@@ -23,3 +23,11 @@ $ django-admin startproject mysite
 - mysite/urls.py - URL decloration
 - mysite/asgi.py - Web server
 - mysite/wsgi.py - Web server
+
+
+
+
+
+Pick Up
+Review Django [Instalation Guide](https://docs.djangoproject.com/en/5.0/intro/install/) for errors
+Continue working through [First Program Tutorial](https://docs.djangoproject.com/en/5.0/intro/tutorial01/)
