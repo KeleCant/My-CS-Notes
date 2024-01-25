@@ -1,11 +1,11 @@
 ## Current Goals
-  1. Review [Linux](https://github.com/KeleCant/My-CS-Notes/blob/main/Linux.md)
-  2. Review Git
-  3. learn Django
-  4. learn Jupiter
-  5. learn Docker
-  6. learn C#
-  7. JavaScript
+  1. Review [Linux](https://github.com/KeleCant/My-CS-Notes/blob/main/Linux.md)    Done 1/23/2024
+  3. Review Git  Done 1/23/2024
+  4. learn Django  Started 1/23/2024
+  5. learn Jupiter
+  6. learn Docker
+  7. learn C#
+  8. JavaScript
   9. Learn and understand MS Connect
   10. Read and understand [Professor Payne's proteomics Education Pamplet](https://github.com/PayneLab/ProteomicsEducation/)
 
