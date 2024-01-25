@@ -5,7 +5,11 @@
 
 
 
-
+### Important Commands
+ - to delete a directory with files in it
+```
+rm -r directory.path
+```
 
 
 ### Resources
