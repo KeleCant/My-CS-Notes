@@ -63,4 +63,5 @@ Review Django [Instalation Guide](https://docs.djangoproject.com/en/5.0/intro/in
 
 
 [Basic Django Functions](https://www.youtube.com/watch?v=0sMtoedWaf0)
+
 [Better tutorial](https://www.youtube.com/watch?v=nGIg40xs9e4)
