@@ -60,3 +60,6 @@ Review Django [Instalation Guide](https://docs.djangoproject.com/en/5.0/intro/in
 * (this forms the folder in the folder that you are in.)
 * They must have the same name
 * django-admin (gives you a list of all of the commands
+
+
+[Basic Django Functions](https://www.youtube.com/watch?v=0sMtoedWaf0)
