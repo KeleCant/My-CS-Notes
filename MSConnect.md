@@ -26,3 +26,14 @@ JUPTER_PASSWORD ='itsasecret'
 - I do think that the raw file uploader seems like a hassle in itself, so if there is a way to upload the files that would be way easier then I should look into it. If we want this to go public and go but then it needs to be user friendly. THe raw file uploader is programed in C# so I will have to learn a compleatly new language. I do think that there should be either an uploader on the websight or a tuttorial on the websight, one of these should be implimented in order to maxamize efficiency.
 - After reading through the raw file uploader code it apears that I do not understand how it functions at all.
 - I went through and installed all of the avaleble apps. one in each catagory did not work and Chat GTP asked for an admin api key, so I believe some work needs to be done on those. 
+
+### 2/13/2024
+- Chat GTP does not work
+- DDA DIA WWA error 404
+
+- Met with Lavander, learned that I need to present march 21st. Met with Xiao Fein, We discused that I will present the instalation process. My Job is to read through and study all of the program and search for spelling errors. It is also to improve the instalation process to make it smoother.
+- Talked to him about removing the uploader and he instructed me that it is that way becuse of how .raw files are recieved.
+- Talked about chat GTP - It requires a payed subscription.
+- DDA DIA WWA does not work yet, he explained that to me.
+
+- Now I will look for errors on the Raw Uploader
