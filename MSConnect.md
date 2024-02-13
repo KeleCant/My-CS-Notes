@@ -37,3 +37,10 @@ JUPTER_PASSWORD ='itsasecret'
 - DDA DIA WWA does not work yet, he explained that to me.
 
 - Now I will look for errors on the Raw Uploader
+![image](https://github.com/KeleCant/My-CS-Notes/assets/94769317/1fa1dbb6-eb33-487e-ba93-82d9610f3084)
+- Replace "Folder to Monitor or Upload" to "Folder Path"
+- Replace "File to upload" to "File Path"
+- "Open full log" to "View Log"
+![image](https://github.com/KeleCant/My-CS-Notes/assets/94769317/5291040a-4073-4f2b-88b1-b402406b43ff)
+- I dont know what this page is for. it could be helpful to have default settings or
+- What is that question mark doing in there?
