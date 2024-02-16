@@ -54,4 +54,4 @@ JUPTER_PASSWORD ='itsasecret'
         - after unistalling the docker program and reinstalling it then reinstalling MS connect, then i was able to get the program working.
     4. review wiki page
     5. review form page
- - 
+ - I do believe that the app center needs a little work. for a new user it can be confusing trying to download apps for the first time
