@@ -44,3 +44,14 @@ JUPTER_PASSWORD ='itsasecret'
 ![image](https://github.com/KeleCant/My-CS-Notes/assets/94769317/5291040a-4073-4f2b-88b1-b402406b43ff)
 - I dont know what this page is for. it could be helpful to have default settings or
 - What is that question mark doing in there?
+
+### 2/15/2024
+- Today's plan.
+    1. Read through websight and record any errors
+         -all i see are potential cap errors but I think they are intentional
+    2. uninstall and reinstall the program.
+        - I deleted all the files but a django managment file refused to delete. I did the reinstall process and found no solution to my problem. I cannot get the websight working now.
+        - after unistalling the docker program and reinstalling it then reinstalling MS connect, then i was able to get the program working.
+    4. review wiki page
+    5. review form page
+ - 
