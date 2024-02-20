@@ -1,7 +1,7 @@
 **Installing the application on Linux is recommended over Windows due to easier installation and better performance. Nowadays, Ubuntu Desktop is user-friendly and not significantly different from Windows. Here is a guide on [How to install Ubuntu Desktop].(https://ubuntu.com/tutorials/install-ubuntu-desktop#1-overview).**
 # Installation in Three Steps:
 
-1. **Install Docker Compose following the [Official guide](https://docs.docker.com/compose/install/). **
+1. **Install Docker Compose following the [Official guide](https://docs.docker.com/compose/install/).**
 
    (In older versions of Windows, if Docker prompts you to set up Windows Subsystem for Linux 2 (WSL 2), you only need to follow steps 4 and 5, not step 6. Once these steps are completed, a system reboot is necessary for the changes to take effect.)
 
