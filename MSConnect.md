@@ -55,3 +55,18 @@ JUPTER_PASSWORD ='itsasecret'
     4. review wiki page
     5. review form page
  - I do believe that the app center needs a little work. for a new user it can be confusing trying to download apps for the first time
+
+
+2/28/2024
+- Total task - refine the material
+- have parker install
+- someone else - have someone with limited expeiance test tutorial
+- Get familiar with usage
+- less priorety 
+- C# bug fixes
+- Merg all commits for MS Connect
+- Pull request
+
+- learn how to automaticl upload files -- upload that asap
+- work on MS Connect functionality wiki pages
+- 
