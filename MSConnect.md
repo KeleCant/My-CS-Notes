@@ -57,7 +57,7 @@ JUPTER_PASSWORD ='itsasecret'
  - I do believe that the app center needs a little work. for a new user it can be confusing trying to download apps for the first time
 
 
-2/28/2024
+### 2/28/2024
 - Total task - refine the material
 - have parker install
 - someone else - have someone with limited expeiance test tutorial
@@ -69,4 +69,15 @@ JUPTER_PASSWORD ='itsasecret'
 
 - learn how to automaticl upload files -- upload that asap
 - work on MS Connect functionality wiki pages
-- 
+
+### Things to do
+- [L] Prepare presentation for March 21st
+- [L] Raw Filer Uploader C# edits
+- [H] Betta testing
+    - 1. Have parker trial download the program
+    - 2. Have an undergrad trial download the program
+- [H] Proteiomics Data Manager Wiki page
+    - learn functionality of the page
+    - 
+- [H] Raw File uploader Wiki page
+    -
