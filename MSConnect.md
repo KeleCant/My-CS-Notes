@@ -80,4 +80,8 @@ JUPTER_PASSWORD ='itsasecret'
     - learn functionality of the page
     - 
 - [H] Raw File uploader Wiki page
-    -
+    - Auto uploader
+    - File lock checker tutorial
+    - Metadata tutorial
+    - Finish "How to set up custom data types page
+    - review everything
