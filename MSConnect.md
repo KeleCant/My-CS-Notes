@@ -78,7 +78,7 @@ JUPTER_PASSWORD ='itsasecret'
     - 2. Have an undergrad trial download the program
 - [H] Proteiomics Data Manager Wiki page
     - learn functionality of the page
-    - 
+    - Adding 
 - [H] Raw File uploader Wiki page
     - Auto uploader
     - File lock checker tutorial
