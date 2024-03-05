@@ -78,10 +78,25 @@ JUPTER_PASSWORD ='itsasecret'
     - 2. Have an undergrad trial download the program
 - [H] Proteiomics Data Manager Wiki page
     - learn functionality of the page
-    - Adding 
+    - Adding
+    - Clean up Side Bar
+        - How to install
+        - systemsettings
+        - 
 - [H] Raw File uploader Wiki page
     - Auto uploader
     - File lock checker tutorial
     - Metadata tutorial
     - Finish "How to set up custom data types page
     - review everything
+
+ 3/5/2024
+ After spending many hours trying to get my docker to work I believe we have found the problem.
+ When I deleter the files in my primary storage it allowed the docer to compile and run.
+ Now I am going through to see which file is causing the error exactly.
+ 0. Test 0: Delete all files in Docker/Storage and run
+ 1. Test 1: Reinstall those prevously installed files to make sure that the problem is isolated. Result: The servers are continously restarting. Problem isolated.
+ 2. Test 2: To save time and I believe the problem is located elsewhere, I removed the files log, pki, rawfiles, systemfiles and will run "docker compose up" Result: Removing these files causes the program to run normaly
+ 3. Test 3: redoing test 2 but reversed. Removed Database_backup and JupiterNotebook. Running log, pki, rawfiles, and systemfiles. Result, servers enter restarting cycle
+ 4. Test 4: removing system settings and running again. The program runs normals. I need to run one more test to make sure its this file causing the problem
+ 5. Test 5: Run with only the systemsettings file Result: server enters restart cycle
