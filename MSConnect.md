@@ -100,3 +100,12 @@ JUPTER_PASSWORD ='itsasecret'
  3. Test 3: redoing test 2 but reversed. Removed Database_backup and JupiterNotebook. Running log, pki, rawfiles, and systemfiles. Result, servers enter restarting cycle
  4. Test 4: removing system settings and running again. The program runs normals. I need to run one more test to make sure its this file causing the problem
  5. Test 5: Run with only the systemsettings file Result: server enters restart cycle
+
+ 7. Test 6: Removing presets Results: Restart Cycle starts
+ 8. Test 7: remove chatgtp_chat, codes, and DIANN Results: Restart Cycle starts
+ 9. Test 8: remove fragpipe19, images, maxquant20 Result: Restart cycle starts
+ 10. Test 9: Remove pd2-5, pd3-0, schedule.pki Result: Server runs Normal
+ 11. Test 10: Add schedule.pki Result: Restart cycle starts
+ 12. Test 11: Add pd2-5, pd3-0 remove schedule.pki Result Server Runs Normal
+
+After further review it apears that it is an error in the HTML that is crashing the server. In the code the setting is 1-6 but the HTML allows for 1-7. If you select 7 the entire server will crash becuse it is out of range. Curently fixing the HTML
