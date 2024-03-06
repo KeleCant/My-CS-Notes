@@ -89,6 +89,16 @@ JUPTER_PASSWORD ='itsasecret'
     - Metadata tutorial
     - Finish "How to set up custom data types page
     - review everything
+- Pages that need to be creates
+    - Proteomics_Data_Processor GitHub Wiki
+    - Processing Node and Visulization Node wiki
+    - Jupiter Notebook python and R
+    - Rest API
+
+
+
+
+
 
  3/5/2024
  After spending many hours trying to get my docker to work I believe we have found the problem.
